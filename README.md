@@ -1,3 +1,4 @@
+##Permiresim i README
 ## Detyre shtepie - HA001 ##
 
 # Perdorimi i git vegles & (github.com) dhe krijimi i nje Java projekti me Gradle
